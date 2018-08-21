@@ -1,0 +1,23 @@
+ul,li {
+    list-style: none;
+}
+ul {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-padding-start: 0;
+}
+.resume{
+    width: 64%;
+    height: 860px;
+    margin: 0 auto;
+    border:1px solid #aaaaaa;
+}
+.msg-group{
+    margin-right: 20px;
+}
+h4{
+    -webkit-margin-after: 0rem;
+}
+p{
+    margin-top: 0;
+}
